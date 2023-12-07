@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboMove", "RoboMove\RoboMove.csproj", "{502FE926-15C8-4843-9619-37B5DDD52983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502FE926-15C8-4843-9619-37B5DDD52983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502FE926-15C8-4843-9619-37B5DDD52983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502FE926-15C8-4843-9619-37B5DDD52983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502FE926-15C8-4843-9619-37B5DDD52983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B86535-9474-4EF2-9EA8-C503A1EE333B}
+	EndGlobalSection
+EndGlobal

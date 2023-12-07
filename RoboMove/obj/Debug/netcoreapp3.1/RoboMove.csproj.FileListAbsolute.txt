@@ -1,0 +1,13 @@
+C:\RoboMove\RoboMove\RoboMove\bin\Debug\netcoreapp3.1\RoboMove.exe
+C:\RoboMove\RoboMove\RoboMove\bin\Debug\netcoreapp3.1\RoboMove.deps.json
+C:\RoboMove\RoboMove\RoboMove\bin\Debug\netcoreapp3.1\RoboMove.runtimeconfig.json
+C:\RoboMove\RoboMove\RoboMove\bin\Debug\netcoreapp3.1\RoboMove.runtimeconfig.dev.json
+C:\RoboMove\RoboMove\RoboMove\bin\Debug\netcoreapp3.1\RoboMove.dll
+C:\RoboMove\RoboMove\RoboMove\bin\Debug\netcoreapp3.1\RoboMove.pdb
+C:\RoboMove\RoboMove\RoboMove\obj\Debug\netcoreapp3.1\RoboMove.csprojAssemblyReference.cache
+C:\RoboMove\RoboMove\RoboMove\obj\Debug\netcoreapp3.1\RoboMove.AssemblyInfoInputs.cache
+C:\RoboMove\RoboMove\RoboMove\obj\Debug\netcoreapp3.1\RoboMove.AssemblyInfo.cs
+C:\RoboMove\RoboMove\RoboMove\obj\Debug\netcoreapp3.1\RoboMove.csproj.CoreCompileInputs.cache
+C:\RoboMove\RoboMove\RoboMove\obj\Debug\netcoreapp3.1\RoboMove.dll
+C:\RoboMove\RoboMove\RoboMove\obj\Debug\netcoreapp3.1\RoboMove.pdb
+C:\RoboMove\RoboMove\RoboMove\obj\Debug\netcoreapp3.1\RoboMove.genruntimeconfig.cache
